@@ -1,1 +1,41 @@
 .venv
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE and system files
+.vscode/
+.DS_Store
+
+# Sensitive or local credentials/data files (if applicable)
+env.py
+kagglestuff.json
+
+credit-card-churn-analysis/
+├── app_pages/            # Modular Streamlit application pages (if multi-page)
+├── assets/               # CSS styles, CSV datasets, and README screenshots
+├── utils/                # Helper Python scripts for data processing/modeling
+├── notebooks/            # Jupyter notebooks (01_eda.ipynb, 02_modeling.ipynb)
+├── .gitignore            # Ignoring .venv, __pycache__, and local files
+├── Procfile              # Deployment server startup command
+├── setup.sh              # Streamlit cloud configuration script
+├── requirements.txt      # Pinned project dependencies
+└── README.md             # Comprehensive project documentation
+
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+env.py
+
+web: sh setup.sh && streamlit run app.py
+
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+env.py
+kagglestuff.json
