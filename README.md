@@ -84,6 +84,10 @@ The interactive Executive Dashboard was deployed to Tableau Public for secure, b
 - Page 2: Financial Exposure & Behavioral Metrics: Income Category distribution charts, Credit Limit box plots, Marital Status breakdowns, and 12-Month Inactive Duration analysis.
 - Page 3: Transactional Performance & Volume Trends:** Card Category performance indicators, behavioral trend line charts, and Total Transaction Amount vs. Count scatter plots.
 
+### Executive Presentation Deck: View Google Slides Presentation
+https://docs.google.com/presentation/d/1QxA75y-cJNwNwh9BaoTd77REnLtQg0ihoq1QVdt7as8/edit?usp=sharing
+https://docs.google.com/presentation/d/1QxA75y-cJNwNwh9BaoTd77REnLtQg0ihoq1QVdt7as8/edit?slide=id.g2b6f9610e6e_0_99#slide=id.g2b6f9610e6e_0_99
+
 ## 09. Key Findings & Business Conclusions
 - Inactive Duration: 3 or more inactive months within a 12-month period serves as a critical operational tipping point for customer churn.
 - Transaction Volume: Transaction count and transaction amount are the strongest statistical predictors of customer retention; low-frequency users should be targeted for re-engagement.
